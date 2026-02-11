@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: thistle;
+    padding: 15px;
+}
+
+header .header-contents {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+header #header-logo {
+    color: white;
+    font-weight: 900;
+    font-size: 1.5em;
+}
+
+main .main-contents {
+    width: 1100px;
+    margin: 0 auto;
+    padding: 30px;
+}
